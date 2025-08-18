@@ -14,21 +14,6 @@ I’m a cybersecurity professional and software developer with hands-on experien
 
 ---
 
-## 🧑‍💻 Experience
-### 🔓 Pentester @ Syscloud (2024–Present)
-- Performed **50+ vulnerability assessments** using Nmap, Nessus, and Burp Suite Pro, reducing exploitable risks by 40%.  
-- Conducted **Active Directory exploitation** (BloodHound, SharpHound, PowerView).  
-- Led investigations into phishing & malware attacks, reducing incident success rates by 30%.  
-- Built **custom exploits in Python & PowerShell** simulating real-world attack scenarios.  
-- Delivered **100+ page professional pentest reports** with actionable remediation steps:contentReference[oaicite:0]{index=0}.  
-
-### 💻 Junior Software Developer @ Algorithmics (2021–2024)  
-- Built full-stack web apps (React, Node.js, MongoDB).  
-- Improved stability by **30% fewer bugs** through automated testing (JUnit, PyTest).  
-- Collaborated with UX/UI teams in Agile.  
-
----
-
 ## 🏆 Certifications
 - **Burp Suite Certified Practitioner**  
 - **eJPT – Junior Penetration Tester**  
@@ -37,15 +22,6 @@ I’m a cybersecurity professional and software developer with hands-on experien
 - **LPI Linux Essentials**  
 - **AWS Cloud Technical Essentials**  
 - **Cisco Intro to Cybersecurity**  
-
----
-
-## 🔧 Technical Skills
-- **Pentesting Tools:** Burp Suite, OWASP ZAP, Nmap, Nessus Pro, Wireshark, SQLmap, Hydra, Feroxbuster  
-- **Languages:** Python, Java, C/C++, SQL, JavaScript  
-- **Frameworks:** Metasploit, React, Node.js  
-- **Cloud Platforms:** AWS, Azure, GCP  
-- **Other:** Git, Docker, LaTeX, WordPress. 
 
 ---
 
@@ -84,6 +60,30 @@ I’m a cybersecurity professional and software developer with hands-on experien
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+---
+
+## 🧑‍💻 Experience
+### 🔓 Pentester @ Syscloud (2024–Present)
+- Performed **50+ vulnerability assessments** using Nmap, Nessus, and Burp Suite Pro, reducing exploitable risks by 40%.  
+- Conducted **Active Directory exploitation** (BloodHound, SharpHound, PowerView).  
+- Led investigations into phishing & malware attacks, reducing incident success rates by 30%.  
+- Built **custom exploits in Python & PowerShell** simulating real-world attack scenarios.  
+- Delivered **100+ page professional pentest reports** with actionable remediation steps:contentReference[oaicite:0]{index=0}.  
+
+### 💻 Junior Software Developer @ Algorithmics (2021–2024)  
+- Built full-stack web apps (React, Node.js, MongoDB).  
+- Improved stability by **30% fewer bugs** through automated testing (JUnit, PyTest).  
+- Collaborated with UX/UI teams in Agile.  
+
+---
+
+## 🔧 Technical Skills
+- **Pentesting Tools:** Burp Suite, OWASP ZAP, Nmap, Nessus Pro, Wireshark, SQLmap, Hydra, Feroxbuster  
+- **Languages:** Python, Java, C/C++, SQL, JavaScript  
+- **Frameworks:** Metasploit, React, Node.js  
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **Other:** Git, Docker, LaTeX, WordPress. 
 
 ---
 
