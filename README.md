@@ -31,12 +31,17 @@ I’m a cybersecurity professional and software developer with hands-on experien
   - [JSON-interpreter](https://github.com/Kennyalfredo/JSON-interpreter-Spring-2024)
 - <b>Pref Agent</b>
   - [Pref Agent](https://github.com/Kennyalfredo/Preference-Agent-PrefAgent--Spring2024)
+- <b>Pokemon Stadium data structure</b>  
   - [Pokemon Stadium](https://github.com/Kennyalfredo/Pokemon-stadium-IntroToAI-Spring2024)
+- <b>Addressing a machine learning problem </b>
+  - [Machine learning problem](https://github.com/Kennyalfredo/Addressing-a-machine-learning-problem-Spring-2024)
 
 <h2>📂 Cybersecurity Projects:</h2>
 
 - <b>CORS POC</b>
   - [CORS vulnerability](https://github.com/Kennyalfredo/CORS-POC)
+- <b> Hotel Program <b>
+  - [OOP Hotel Program](https://github.com/Kennyalfredo/OOP-Hotel-program-Fall2020)
 
 ---
 
