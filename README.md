@@ -1,4 +1,3 @@
-# 👋 Hi, I’m Kenny Alfredo Aranda  
 <h1>Hi, I'm Kenny! <br/><a href="https://github.com/Kennyalfredo">Programmer</a>, <a href="https://www.linkedin.com/in/kenny-aranda-197019212">Cybersecurity Professional</a>.
 
 <h2>👨‍💻 Software Development Projects:</h2>
