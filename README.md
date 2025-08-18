@@ -37,7 +37,8 @@ I’m a cybersecurity professional and software developer with hands-on experien
   - [Machine learning problem](https://github.com/Kennyalfredo/Addressing-a-machine-learning-problem-Spring-2024)
 
 <h2>📂 Cybersecurity Projects:</h2>
-
+- <b>HackerOne Bug Bounty Program</b>
+  - [Reported Improper Handling of Card Type in Affirm Virtual Card API]
 - <b>CORS POC</b>
   - [CORS vulnerability](https://github.com/Kennyalfredo/CORS-POC)
 - <b> Hotel Program <b>
