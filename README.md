@@ -35,14 +35,18 @@ I’m a cybersecurity professional and software developer with hands-on experien
   - [Pokemon Stadium](https://github.com/Kennyalfredo/Pokemon-stadium-IntroToAI-Spring2024)
 - <b>Addressing a machine learning problem </b>
   - [Machine learning problem](https://github.com/Kennyalfredo/Addressing-a-machine-learning-problem-Spring-2024)
-
-<h2>📂 Cybersecurity Projects:</h2>
-- <b>HackerOne Bug Bounty Program</b>
-  - [Reported Improper Handling of Card Type in Affirm Virtual Card API]
-- <b>CORS POC</b>
-  - [CORS vulnerability](https://github.com/Kennyalfredo/CORS-POC)
 - <b> Hotel Program <b>
   - [OOP Hotel Program](https://github.com/Kennyalfredo/OOP-Hotel-program-Fall2020)
+
+<h2>📂 Cybersecurity Projects:</h2>
+
+- <b>HackerOne Bug Bounty Program</b>
+  - Reported Improper Handling of Card Type in Affirm Virtual Card API
+- <b>Burp Suite Labs Writeup</b>
+  - [Burp Certification Labs Writups](https://github.com/Kennyalfredo/portswigger-labs-writeups)
+- <b>CORS POC</b>
+  - [CORS vulnerability](https://github.com/Kennyalfredo/CORS-POC)
+
 
 ---
 
