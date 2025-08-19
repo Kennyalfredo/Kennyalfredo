@@ -43,7 +43,7 @@ I’m a cybersecurity professional and software developer with hands-on experien
 - <b>HackerOne Bug Bounty Program</b>
   - Reported Improper Handling of Card Type in Affirm Virtual Card API
 - <b>Burp Suite Labs Writeup</b>
-  - [Burp Certification Labs Writups](https://github.com/Kennyalfredo/portswigger-labs-writeups)
+  - [Burp Certification Labs Writeups](https://github.com/Kennyalfredo/portswigger-labs-writeups)
 - <b>CORS POC</b>
   - [CORS vulnerability](https://github.com/Kennyalfredo/CORS-POC)
 
