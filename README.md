@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kenny! <br/><a href="https://github.com/Kennyalfredo">Programmer</a>, <a href="https://www.linkedin.com/in/kenny-aranda-197019212">Cybersecurity Professional</a></h1>
 
 ---
-📍 Jacksonville, FL | 📧 [kennyaranda46@gmail.com](mailto:kennyaranda46@gmail.com) | 🌐 [kennyaranda.com](https://kennyaranda.com)
+📍 St. Augustine, FL | 📧 [kennyaranda46@gmail.com](mailto:kennyaranda46@gmail.com) | 🌐 [kennyaranda.com](https://kennyaranda.com)
 
 ---
 
@@ -44,8 +44,7 @@ I'm a cybersecurity professional and software developer with hands-on experience
 - <b>Hack The Box & TryHackMe Labs</b> — Penetration Testing, Metasploit, Nmap, Burp Suite, Python, Bash *(Ongoing)*
 - <b>Burp Suite Labs Writeup</b>
   - [PortSwigger Labs Writeups](https://github.com/Kennyalfredo/portswigger-labs-writeups)
-- <b>CORS POC</b>
-  - [CORS Vulnerability](https://github.com/Kennyalfredo/CORS-POC)
+- <b>Public Records Aggregator Bot</b> — Python, Burp Suite / DevTools, BeautifulSoup4, asyncio, Google Dorks, Telegram Bot API *(March 2026)*
 
 <h2>📂 Software Development Projects</h2>
 
